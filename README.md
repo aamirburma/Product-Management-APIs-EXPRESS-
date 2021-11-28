@@ -52,3 +52,32 @@
         <li>delete product</li>
     </ul>
 </ol>
+<hr />
+<img src="./Postman/1.png" width="200px" />
+<hr />
+<img src="./Postman/2.png" width="200px" />
+<hr />
+<img src="./Postman/3.png" width="200px" />
+<hr />
+<img src="./Postman/4.png" width="200px" />
+<hr />
+<img src="./Postman/5.png" width="200px" />
+<hr />
+<img src="./Postman/6.png" width="200px" />
+<hr />
+<img src="./Postman/7.png" width="200px" />
+<hr />
+<img src="./Postman/8.png" width="200px" />
+<hr />
+<img src="./Postman/9.png" width="200px" />
+<hr />
+<img src="./Postman/10.png" width="200px" />
+<hr />
+<img src="./Postman/11.png" width="200px" />
+<hr />
+<img src="./Postman/12.png" width="200px" />
+<hr />
+<img src="./Postman/13.png" width="200px" />
+<hr />
+<img src="./Postman/14.png" width="200px" />
+<hr />
