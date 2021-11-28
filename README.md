@@ -1,5 +1,5 @@
 # Product-Management-APIs-EXPRESS-
-<h1 style="text-align:center">SCHEMA</h1>
+<h1 style="text-align:center" align="center">SCHEMA</h1>
 <ul>
     <li>product id : String</li>
     <li>title : String</li>
